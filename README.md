@@ -1709,11 +1709,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/IzzyDevOps">
-                    <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
-                    <br />
-                    <sub><b>Kaone Keboetseng</b></sub>
+           <td align="center">
+                <a href="https://github.com/DevankMhatre">
+                <img src="https://avatars.githubusercontent.com/u/191666717?v=4t" width="100px;" alt="Devank Mhatre"/>
+                 <br />
+            <sub><b>Devank Mhatre</b></sub>
                 </a>
             </td>
         </tr>
